@@ -10,8 +10,8 @@
 
 | 이름   | Chapter | 날짜 | Done                 |
 | ------ | ------- | ---- | -------------------- |
-| 전영서 | 1       |      | :white_large_square: |
-| 김X희  | 1       |      | :white_large_square: |
+| 전영서 | 불 대수       |      | :white_large_square: |
+| 김X희  | 불 대수       |      | :white_large_square: |
 
 
 
