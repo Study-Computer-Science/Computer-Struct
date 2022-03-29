@@ -10,7 +10,7 @@
 
 | 이름   | Chapter | 날짜 | Done                 |
 | ------ | ------- | ---- | -------------------- |
-| 전영서 | 불 대수       |      | :white_large_square: |
+| 전영서 | 불 대수       | 2022/03/29 | :white_check_mark: |
 | 김X희  | 불 대수       |      | :white_large_square: |
 
 
