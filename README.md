@@ -40,11 +40,19 @@
 
 ## 바로가기
 
-| 주차  | 링크                                                         | 비고    |
-| ----- | ------------------------------------------------------------ | ------- |
-| 1week | [링크](https://github.com/Mint-Candy95/Computer-Struct/tree/main/Chap1) | 불 대수 |
-| 2week |                                                              |         |
-|       |                                                              |         |
-|       |                                                              |         |
-|       |                                                              |         |
+| 주차   | 링크                                                         | 비고                       |
+| ------ | ------------------------------------------------------------ | -------------------------- |
+| 1week  | [링크](https://github.com/Mint-Candy95/Computer-Struct/tree/main/Chap1) | 불 대수                    |
+| 2week  | [링크](https://github.com/Mint-Candy95/Computer-Struct/tree/main/Chap2) | 불 연산                    |
+| 3week  | [링크](https://github.com/Mint-Candy95/Computer-Struct/tree/main/Chap3) | 순차 논리                  |
+| 4week  | [링크](https://github.com/Mint-Candy95/Computer-Struct/tree/main/Chap4) | 기계어                     |
+| 5week  | [링크](https://github.com/Mint-Candy95/Computer-Struct/tree/main/Chap5) | 컴퓨터 아키텍처            |
+| 6week  | [링크](https://github.com/Mint-Candy95/Computer-Struct/tree/main/Chap6) | 어셈블러                   |
+| 7week  | [링크](https://github.com/Mint-Candy95/Computer-Struct/tree/main/Chap7) | 가상 머신 1: 스택 산술     |
+| 8week  | [링크](https://github.com/Mint-Candy95/Computer-Struct/tree/main/Chap8) | 가선 머신 2: 프로그램 제어 |
+| 9week  | [링크](https://github.com/Mint-Candy95/Computer-Struct/tree/main/Chap9) | 고수준 언어                |
+| 10week | [링크](https://github.com/Mint-Candy95/Computer-Struct/tree/main/Chap10) | 컴파일러 1:구문 분석       |
+| 11week | [링크](https://github.com/Mint-Candy95/Computer-Struct/tree/main/Chap11) | 컴파일러 2:코드 생성       |
+| 12week | [링크](https://github.com/Mint-Candy95/Computer-Struct/tree/main/Chap12) | 운영체제                   |
+| 13week |                                                              |                            |
 
